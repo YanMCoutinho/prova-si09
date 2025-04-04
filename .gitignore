@@ -1,2 +1,5 @@
 .secrets
 bin/
+obj/
+bin
+obj
